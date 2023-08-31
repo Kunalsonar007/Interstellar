@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kunalsonar007/"
+    "url": "https://github.com/Kunalsonar007/Interstellar"
   },
   "scripts": {
     "start": "node ./server.js",
