@@ -1,0 +1,45 @@
+{
+  "short_name": "Interstellar",
+  "name": "Interstellar",
+  "start_url": "index.html",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/black-hole.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

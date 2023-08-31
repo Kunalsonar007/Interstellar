@@ -1,0 +1,17 @@
+{
+  "name": "interstellar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kunalsonar007/"
+  },
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "./node_modules/typescript/bin/tsc index.ts"
+  },
+  "devDependencies": {
+    "serve": "^1.4.0",
+    "typescript": "^1.4.1"
+  }
+}
